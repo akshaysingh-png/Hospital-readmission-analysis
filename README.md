@@ -15,14 +15,7 @@ This project analyzes hospital readmission trends using real-world data. It invo
 	•	cms_readmission_data.csv → Raw dataset
 	•	README.md → Project documentation
 
-🚀 How to Use
-	1.	Clone the repository
-	•	git clone https://github.com/your-username/Hospital-readmission-analysis.git
-	•	cd Hospital-readmission-analysis
-	2.	Run the scripts
-	•	python analysis.py
-	•	python visualisation.py
-	3.	Check the outputs
+
 
 📜 License
 
